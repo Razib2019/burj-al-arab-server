@@ -1,0 +1,11 @@
+[
+    {
+        "id": "1",
+        "name": "Standard Single Room",
+        "image": "https://i.ibb.co/183q4Yy/Single.png",
+        "description": "Standard single Rooms Are Designed In Open-Concept Living Area And Have Many Facilities",
+        "bed": "1",
+        "person": "1",
+        "price": "119"
+    }
+]
